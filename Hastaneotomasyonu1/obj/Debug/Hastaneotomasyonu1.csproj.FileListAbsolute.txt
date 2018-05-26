@@ -1,0 +1,213 @@
+c:\users\user\documents\visual studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\bin\Debug\Hastaneotomasyonu1.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\bin\Debug\Hastaneotomasyonu1.exe
+c:\users\user\documents\visual studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\bin\Debug\Hastaneotomasyonu1.pdb
+c:\users\user\documents\visual studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.exe
+c:\users\user\documents\visual studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.pdb
+c:\users\user\documents\visual studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form2.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form4.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form5.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Hakkımda.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Hasta_işlemleri.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form6.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stok.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.stok_modul.frmstokgrup.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.stok_modul.frmstokkarti.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.stok_modul.frmstoklistesi.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.yenistok.stokmenu.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stokmenu.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.aylıkraporcs.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stok_ekleme.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stokguncelleme.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stoksilme.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Aylıkmail.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Aylık_satıs_mail.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Canlısatis.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.günlükrapor.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Günlük_mail.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Günlük_satıs_mail.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Senelik_mail.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Senelik_satıs_mail.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.yıllıkrapor.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Mail_bilgiler.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.urun_cınsı_ekleme.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.sıfremıunuttum.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.hastayatis.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.konsültasyon.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.hastakontrol.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.hasabılgısıekranı.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.hastateshıs.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\bin\Debug\Hastaneotomasyonu1.exe.config
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.exe
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.pdb
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\bin\Debug\Hastaneotomasyonu1.exe
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\bin\Debug\Hastaneotomasyonu1.pdb
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Aylıkmail.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.aylıkraporcs.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Aylık_satıs_mail.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Canlısatis.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form1.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form2.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Hasta_işlemleri.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form4.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form5.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form6.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.günlükrapor.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Günlük_mail.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Günlük_satıs_mail.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Hakkımda.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.hasabılgısıekranı.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.hastakontrol.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.hastateshıs.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.hastayatis.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.konsültasyon.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Mail_bilgiler.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Properties.Resources.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Senelik_mail.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Senelik_satıs_mail.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stok.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stokguncelleme.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stokmenu.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stoksilme.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stok_ekleme.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.stok_modul.frmstokgrup.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.stok_modul.frmstokkarti.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.stok_modul.frmstoklistesi.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.sıfremıunuttum.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.urun_cınsı_ekleme.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.yenistok.stokmenu.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.yıllıkrapor.resources
+C:\Users\User\Desktop\201413172067\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\bin\Debug\Hastaneotomasyonu1.exe.config
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.exe
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.pdb
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\bin\Debug\Hastaneotomasyonu1.exe
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\bin\Debug\Hastaneotomasyonu1.pdb
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Aylıkmail.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.aylıkraporcs.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Aylık_satıs_mail.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Canlısatis.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form1.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form2.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Hasta_işlemleri.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form4.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form5.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form6.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.günlükrapor.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Günlük_mail.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Günlük_satıs_mail.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Hakkımda.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.hasabılgısıekranı.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.hastakontrol.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.hastateshıs.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.hastayatis.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.konsültasyon.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Mail_bilgiler.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Properties.Resources.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Senelik_mail.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Senelik_satıs_mail.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stok.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stokguncelleme.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stokmenu.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stoksilme.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stok_ekleme.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.stok_modul.frmstokgrup.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.stok_modul.frmstokkarti.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.stok_modul.frmstoklistesi.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.sıfremıunuttum.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.urun_cınsı_ekleme.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.yenistok.stokmenu.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.yıllıkrapor.resources
+C:\Users\User\Desktop\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.csproj.GenerateResource.Cache
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\bin\Debug\Hastaneotomasyonu1.exe.config
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\bin\Debug\Hastaneotomasyonu1.exe
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\bin\Debug\Hastaneotomasyonu1.pdb
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.csprojResolveAssemblyReference.cache
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Aylıkmail.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.aylıkraporcs.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Aylık_satıs_mail.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Canlısatis.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form1.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form2.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Hasta_işlemleri.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form4.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form5.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form6.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.günlükrapor.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Günlük_mail.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Günlük_satıs_mail.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Hakkımda.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.hasabılgısıekranı.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.hastakontrol.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.hastateshıs.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.hastayatis.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.konsültasyon.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Mail_bilgiler.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Properties.Resources.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Senelik_mail.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Senelik_satıs_mail.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stok.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stokguncelleme.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stokmenu.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stoksilme.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stok_ekleme.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.stok_modul.frmstokgrup.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.stok_modul.frmstokkarti.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.stok_modul.frmstoklistesi.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.sıfremıunuttum.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.urun_cınsı_ekleme.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.yenistok.stokmenu.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.yıllıkrapor.resources
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.csproj.GenerateResource.cache
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.csproj.CoreCompileInputs.cache
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.exe
+C:\Users\Ercan KAR\Desktop\ERCAN KAR\OKUL İÇİN\201413172067-Ercan_kar\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.pdb
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\bin\Debug\Hastaneotomasyonu1.exe.config
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\bin\Debug\Hastaneotomasyonu1.exe
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\bin\Debug\Hastaneotomasyonu1.pdb
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.csprojResolveAssemblyReference.cache
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Aylıkmail.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.aylıkraporcs.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Aylık_satıs_mail.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Canlısatis.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form1.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form2.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Hasta_işlemleri.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form4.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form5.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Form6.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.günlükrapor.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Günlük_mail.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Günlük_satıs_mail.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Hakkımda.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.hasabılgısıekranı.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.hastakontrol.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.hastateshıs.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.hastayatis.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.konsültasyon.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Mail_bilgiler.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Properties.Resources.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Senelik_mail.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Senelik_satıs_mail.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stok.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stokguncelleme.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stokmenu.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stoksilme.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Stok_ekleme.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.stok_modul.frmstokgrup.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.stok_modul.frmstokkarti.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.stok_modul.frmstoklistesi.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.sıfremıunuttum.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.urun_cınsı_ekleme.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.yenistok.stokmenu.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.yıllıkrapor.resources
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.csproj.GenerateResource.cache
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.csproj.CoreCompileInputs.cache
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.exe
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.pdb
+C:\Users\Ercan KAR\Desktop\Hastaneotomasyonu1\Hastaneotomasyonu1\obj\Debug\Hastaneotomasyonu1.Kullanıcı_ata.resources

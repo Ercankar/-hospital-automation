@@ -1,0 +1,412 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7ABADAEE-57FE-47AD-9A7B-ED02D3CA3917}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Hastaneotomasyonu1</RootNamespace>
+    <AssemblyName>Hastaneotomasyonu1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aylıkmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aylıkmail.Designer.cs">
+      <DependentUpon>Aylıkmail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aylıkraporcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aylıkraporcs.Designer.cs">
+      <DependentUpon>aylıkraporcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aylık_satıs_mail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aylık_satıs_mail.Designer.cs">
+      <DependentUpon>Aylık_satıs_mail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="baglantı.cs" />
+    <Compile Include="Canlısatis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Canlısatis.Designer.cs">
+      <DependentUpon>Canlısatis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.cs">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="günlükrapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="günlükrapor.Designer.cs">
+      <DependentUpon>günlükrapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Günlük_mail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Günlük_mail.Designer.cs">
+      <DependentUpon>Günlük_mail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Günlük_satıs_mail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Günlük_satıs_mail.Designer.cs">
+      <DependentUpon>Günlük_satıs_mail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hakkımda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hakkımda.Designer.cs">
+      <DependentUpon>Hakkımda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hasabılgısıekranı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hasabılgısıekranı.Designer.cs">
+      <DependentUpon>hasabılgısıekranı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hastakontrol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hastakontrol.Designer.cs">
+      <DependentUpon>hastakontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hastateshıs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hastateshıs.Designer.cs">
+      <DependentUpon>hastateshıs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hastayatis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hastayatis.Designer.cs">
+      <DependentUpon>hastayatis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="konsültasyon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="konsültasyon.Designer.cs">
+      <DependentUpon>konsültasyon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanıcı_ata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kullanıcı_ata.Designer.cs">
+      <DependentUpon>Kullanıcı_ata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mail_bilgiler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mail_bilgiler.Designer.cs">
+      <DependentUpon>Mail_bilgiler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Senelik_mail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Senelik_mail.Designer.cs">
+      <DependentUpon>Senelik_mail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Senelik_satıs_mail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Senelik_satıs_mail.Designer.cs">
+      <DependentUpon>Senelik_satıs_mail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sifre_işlemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sifre_işlemleri.Designer.cs">
+      <DependentUpon>Sifre_işlemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stok.Designer.cs">
+      <DependentUpon>Stok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stokguncelleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stokguncelleme.Designer.cs">
+      <DependentUpon>Stokguncelleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stokmenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stokmenu.Designer.cs">
+      <DependentUpon>Stokmenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stoksilme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stoksilme.Designer.cs">
+      <DependentUpon>Stoksilme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stok_ekleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stok_ekleme.Designer.cs">
+      <DependentUpon>Stok_ekleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stok_modul\frmstokgrup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stok_modul\frmstokgrup.Designer.cs">
+      <DependentUpon>frmstokgrup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stok_modul\frmstokhareketleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stok_modul\frmstokhareketleri.Designer.cs">
+      <DependentUpon>frmstokhareketleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stok_modul\frmstokkarti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stok_modul\frmstokkarti.Designer.cs">
+      <DependentUpon>frmstokkarti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stok_modul\frmstoklistesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stok_modul\frmstoklistesi.Designer.cs">
+      <DependentUpon>frmstoklistesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sıfremıunuttum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sıfremıunuttum.Designer.cs">
+      <DependentUpon>sıfremıunuttum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="urun_cınsı_ekleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="urun_cınsı_ekleme.Designer.cs">
+      <DependentUpon>urun_cınsı_ekleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yenistok\stokmenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yenistok\stokmenu.Designer.cs">
+      <DependentUpon>stokmenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yıllıkrapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yıllıkrapor.Designer.cs">
+      <DependentUpon>yıllıkrapor.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Aylıkmail.resx">
+      <DependentUpon>Aylıkmail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aylıkraporcs.resx">
+      <DependentUpon>aylıkraporcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aylık_satıs_mail.resx">
+      <DependentUpon>Aylık_satıs_mail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Canlısatis.resx">
+      <DependentUpon>Canlısatis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="günlükrapor.resx">
+      <DependentUpon>günlükrapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Günlük_mail.resx">
+      <DependentUpon>Günlük_mail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Günlük_satıs_mail.resx">
+      <DependentUpon>Günlük_satıs_mail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hakkımda.resx">
+      <DependentUpon>Hakkımda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hasabılgısıekranı.resx">
+      <DependentUpon>hasabılgısıekranı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hastakontrol.resx">
+      <DependentUpon>hastakontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hastateshıs.resx">
+      <DependentUpon>hastateshıs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hastayatis.resx">
+      <DependentUpon>hastayatis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="konsültasyon.resx">
+      <DependentUpon>konsültasyon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kullanıcı_ata.resx">
+      <DependentUpon>Kullanıcı_ata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mail_bilgiler.resx">
+      <DependentUpon>Mail_bilgiler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Senelik_mail.resx">
+      <DependentUpon>Senelik_mail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Senelik_satıs_mail.resx">
+      <DependentUpon>Senelik_satıs_mail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stok.resx">
+      <DependentUpon>Stok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stokguncelleme.resx">
+      <DependentUpon>Stokguncelleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stokmenu.resx">
+      <DependentUpon>Stokmenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stoksilme.resx">
+      <DependentUpon>Stoksilme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stok_ekleme.resx">
+      <DependentUpon>Stok_ekleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stok_modul\frmstokgrup.resx">
+      <DependentUpon>frmstokgrup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stok_modul\frmstokkarti.resx">
+      <DependentUpon>frmstokkarti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stok_modul\frmstoklistesi.resx">
+      <DependentUpon>frmstoklistesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sıfremıunuttum.resx">
+      <DependentUpon>sıfremıunuttum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="urun_cınsı_ekleme.resx">
+      <DependentUpon>urun_cınsı_ekleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yenistok\stokmenu.resx">
+      <DependentUpon>stokmenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yıllıkrapor.resx">
+      <DependentUpon>yıllıkrapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="fonksiyonlar\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
